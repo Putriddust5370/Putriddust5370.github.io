@@ -1,0 +1,57 @@
+
+make the artwork gallery responsive with parallax scrolling
+	have each segment be a 
+
+off-canvas menus are cool af
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I would like to grab 
+"HunterWeilerphotography.com",
+"hunterweiler.com" ,
+"Hunterwilerwildlifephotography",
+"Hunterweilerfineartphotogrpahy.com",
+"hunterweiler.photo.fineart.com" 
+just in case. 
+
+hw.photography
+hunterw.photography
+weiler.photography
+hweiler.com
+
+Some things to consider are copyrights? 
+Not sure if you've got a watermark already, 
+even less sure how you would stop people 
+from just nabbing you stuff off the site. 
+Especially if you want super high res for 
+good monitors. 
+
+I get the feeling this is gonna kinda be 
+your baby, and like a foundation for business 
+prospects and whatnot, so I'm practically 
+just a code-monkey at this point. Ooga 
+booga make look nice and work gud. 
+
+I don't mind writing/tweaking the html and 
+all that to get it just how you like it as 
+far as functionalities (links to social media, 
+easy interface for you to add/delete pics)

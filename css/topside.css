@@ -1,0 +1,14 @@
+
+body {background-color: black; color: White;}
+.header {text-align: center; color: White;}
+.topnav {font-size: 0.875em;}
+/*font tags for text*/
+.s {font-family: "Times New Roman", Times, serif; font-weight: lighter;}
+.ss {font-family: Arial, Helvetica, sans-serif;}
+
+/* unvisited */
+a:link {color: White; text-decoration: none;}
+/* visited */
+a:visited {color: White; text-decoration: none;}
+/* mouse over */
+a:hover {color: LightGray; text-decoration: underline;}
